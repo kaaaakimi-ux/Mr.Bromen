@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Ansmerppies.aternos.me",
-    "port": 62722,
+    "port": "62722",
     "version": "",
     "try-creative": false
   },
