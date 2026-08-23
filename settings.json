@@ -1,13 +1,13 @@
 {
-  "name": "Mr.Bromen",
+  "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Broman",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Ansmerppies.aternos.me",
-    "port": "62722",
+    "ip": "BromanLSMP.aternos.me",
+    "port": 34835,
     "version": "",
     "try-creative": false
   },
